@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/TURBOHYPER/Toxic-Alexa#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "3.5.3",
+    "@adiwajshing/baileys": "5.0.0",
     "@adiwajshing/keyed-db":"0.2.4",
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
@@ -53,7 +53,7 @@
     "heroku-client": "^3.1.0",
     "jimp": "0.16.0",
     "js-ffmpeg": "0.0.33",
-    "jsdom": "^16.5.1",
+    "jsdom": "^17.0.0",
     "langs": "^2.0.0",
     "languagedetect": "^2.0.0",
     "meme-maker": "^2.1.2",
